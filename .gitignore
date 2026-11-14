@@ -1,0 +1,27 @@
+# Claves y configuración local (no se suben)
+*.pem
+.env
+.env.*
+**/config/claves.json
+local.properties
+key.properties
+*.jks
+*.keystore
+
+# Respaldos con datos de prueba
+base_datos/respaldo_*.sql
+
+# Archivos generados
+node_modules/
+build/
+.dart_tool/
+__pycache__/
+*.log
+*.apk
+backend_nodejs/recetas_local/
+**/imagenes_local/
+.idea/
+*.iml
+
+# Scripts con la clave de MySQL local
+APAGAR_TODO.bat

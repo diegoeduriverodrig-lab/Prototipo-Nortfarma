@@ -1,0 +1,18 @@
+{
+  "name": "nortfarma-functions",
+  "description": "API de Boticas Felicidad (Cloud Functions + MySQL)",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": "24"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "firebase-admin": "^14.5.0",
+    "firebase-functions": "^7.4.0",
+    "mysql2": "^3.24.5"
+  },
+  "scripts": {
+    "servidor": "node --env-file=.env servidor.js"
+  }
+}

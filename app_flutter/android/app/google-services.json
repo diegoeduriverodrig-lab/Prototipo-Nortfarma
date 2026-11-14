@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421941024599",
+    "project_id": "nortfarma-a7928",
+    "storage_bucket": "nortfarma-a7928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421941024599:android:7548e29bb62af5a00a9012",
+        "android_client_info": {
+          "package_name": "com.nortfarma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421941024599-b0a6iabjj67ng9j1pv9c2dhf7v3n672q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nortfarma.app",
+            "certificate_hash": "8fa599697bf7c63ba9d55a5c190194be63155694"
+          }
+        },
+        {
+          "client_id": "421941024599-i8flt9bta9f3os42n257l26mrl2uf1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzczpvSZUZWgN2ZEzWXjZ1LCcEl8F-Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421941024599-i8flt9bta9f3os42n257l26mrl2uf1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
